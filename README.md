@@ -1,12 +1,12 @@
 # DRL-Navigation
 Deep Reinforcement Learning Navigation
 
-## Project Details
+### Project Details
 
-## Getting Started
+### Getting Started
 
-## Instructions
+### Instructions
 
-## Results
+### Results
 
-## Future Enhancements
+### Future Enhancements
